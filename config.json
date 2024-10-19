@@ -7,10 +7,10 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "chaeryounngqt@gmail.com",
+    "PASSWORD": "cherrymobile",
     "OTPKEY": "",
-    "BOTNAME": "",
+    "BOTNAME": "Jarey v2",
     "PREFIX": "!",
     "ADMINBOT": [
         "USERID1",
